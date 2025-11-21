@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 1,
+    "offer_id": "CASE-0000",
+    "origin": "Bangna, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W3",
+    "price": 3513.54,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 2,
+    "offer_id": "CASE-0001",
+    "origin": "Lat Krabang, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W4",
+    "price": 3738.23,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 3,
+    "offer_id": "CASE-0002",
+    "origin": "Suan Luang, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W1",
+    "price": 3587.95,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 4,
+    "offer_id": "CASE-0003",
+    "origin": "Bang Kapi, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W3",
+    "price": 3636.4,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 5,
+    "offer_id": "CASE-0004",
+    "origin": "Prawet, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W1",
+    "price": 3565.02,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 6,
+    "offer_id": "CASE-0005",
+    "origin": "Minburi, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W3",
+    "price": 3792.69,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 7,
+    "offer_id": "CASE-0006",
+    "origin": "Lat Phrao, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W1",
+    "price": 3780.05,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 8,
+    "offer_id": "CASE-0007",
+    "origin": ", Samut Prakan, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W2",
+    "price": 3554.62,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 9,
+    "offer_id": "CASE-0009",
+    "origin": ", Din Daeng, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W3",
+    "price": 3692.95,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  },
+  {
+    "idx": 10,
+    "offer_id": "CASE-0010",
+    "origin": ", Phaya Thai, Bangkok, Thailand",
+    "vol": 120.0,
+    "exp_accept": null,
+    "act_accept": true,
+    "chosen": "W3",
+    "price": 3740.98,
+    "cands": 5,
+    "reason": "fallback_pipeline"
+  }
+]
