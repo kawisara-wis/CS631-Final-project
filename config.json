@@ -1,0 +1,21 @@
+{
+  "db": {
+    "url": "mongodb://localhost:27017/test",
+    "name": "test"
+  },
+  "agentConsumer": {
+    "count": 1,
+    "settingsOffer": {
+      "expiryDuration": 3600,
+      "priceInterval": [1, 10]
+    }
+  },
+  "service": {
+    "duration" : 1000
+  },
+  "provider": {
+    "count": 1,
+    "servicesLimit": 1
+  },
+  "mode": "silly"
+}
